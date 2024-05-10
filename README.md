@@ -21,6 +21,7 @@ python pythonApplication.py
 ### Main Window
 ![Main Window](mainwindow.png)
 ![Main Window](mainwindow1.png)
+
 You can manage directors, actors, and genres within the tree by adding or removing them from the included and excluded sections. Once you've configured your preferences, simply press the "Get Movie" button to fetch movies that match your criteria. This action will take you to the Information Window where you can view detailed information about the selected movie.
 
 ![Info Window](detailswindow.png)
