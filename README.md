@@ -26,4 +26,5 @@ You can manage directors, actors, and genres within the tree by adding or removi
 
 ![Info Window](detailswindow.png)
 ![Info Window](detailswindow1.png)
+
 You can expand the dropdown arrow to reveal additional movie details.
