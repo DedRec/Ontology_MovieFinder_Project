@@ -17,3 +17,6 @@ Open the project folder and run pythonApplication.py
 ```bash
 python pythonApplication.py
 ```
+## Screenshots of Application
+### Main Window
+![Main Window](mainwindow.png)
