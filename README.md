@@ -22,17 +22,18 @@ python pythonApplication.py
 ```
 ## Screenshots of Application
 ### Main Window
-![Main Window](mainwindow.png)
+<img src="mainwindow.png" alt="Main Window" width="50%">
 
-![Main Window](mainwindow1.png)
+<img src="mainwindow1.png" alt="Main Window" width="50%">
 
 You can manage directors, actors, and genres within the tree by adding or removing them from the included and excluded sections. Once you've configured your preferences, simply press the "Get Movie" button to fetch movies that match your criteria. This action will take you to the Information Window where you can view detailed information about the selected movie.
 
-### Information Dislpay Window
-![Info Window](detailswindow2.png)
+### Information Display Window
+<img src="detailswindow2.png" alt="Info Window" width="50%">
 
-![Info Window](detailswindow.png)
+<img src="detailswindow.png" alt="Info Window" width="50%">
 
-![Info Window](detailswindow1.png)
+<img src="detailswindow1.png" alt="Info Window" width="50%">
+
 
 You can expand the dropdown arrow to reveal additional movie details. To return to the main window, simply press the back button.
