@@ -1,14 +1,4 @@
 SELECT ?person
 WHERE {
-  {
-    ?person rdf:type owl:Actor .
-  }
-  UNION
-  {
-    ?person rdf:type owl:Director .
-  }
-  UNION
-  {
-    ?person rdf:type owl:Writer .
-  }
+  ?person rdf:type owl:Person.
 }
